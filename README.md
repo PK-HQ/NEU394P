@@ -10,4 +10,4 @@ Three potential topics I'd be interested in working on:
 (2) Stock Market Prediction
 (3) Generally neuroscience related topics, ideally realistic biologically-inspired models
 
-I have not teamed up with anyone at this point.
+I have not teamed up with anyone at this point, please feel free to reach out. Thanks!
