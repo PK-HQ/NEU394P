@@ -1,5 +1,4 @@
 ### Pin Kwang (PK) Tan
-theme:slate
 Department of Neuroscience & Psychology
 <br/>pktan@utexas.edu
 
