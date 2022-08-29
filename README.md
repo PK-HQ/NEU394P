@@ -1,7 +1,5 @@
 ### Pin Kwang (PK) Tan
-
 Department of Neuroscience & Psychology
-
 pktan@utexas.edu
 
 I'm PK, a 2nd year Neuroscience PhD student. I currently lead a project to understand the code that the visual area of the brain uses to enable vision. To achieve this, we record brain activity when the animal views images, and recreate the same neuronal firing with light in an attempt to manipulate their perception. 
