@@ -7,7 +7,7 @@ I'm PK, a 2nd year Neuroscience PhD student. I currently lead a project to under
 <br/>I have a 7.5 year background in visual neuroscience, cutting-edge techniques to record and manipulate brain activity, and computational neuroscience (analyses). Hidden talents: combat sports and taking projects to publication.
 
 Three potential topics I'd be interested in working on:
-<br/>(1) Creating models that can predict/recover the code that the visual cortex uses for representing visual stimuli
+<br/>(1) Creating models that can predict/recover the code that the visual cortex uses for representing visual images
 <br/>(2) Stock Market Prediction
 <br/>(3) Generally neuroscience related topics, ideally realistic biologically-inspired models
 
