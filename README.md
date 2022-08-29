@@ -1,5 +1,5 @@
 ### Pin Kwang (PK) Tan
-Department of Neuroscience & Psychology
+Departments of Neuroscience & Psychology
 <br/>pktan@utexas.edu
 
 I'm PK, a 2nd year Neuroscience PhD student. I currently lead a project to understand the code that visual areas use to represent images. To achieve this, we record brain activity when an animal views images, and recreate the same neuronal activity with light in an attempt to manipulate their perception. 
